@@ -24,7 +24,3 @@
 |                                           |                                          |
 | ----------------------------------------- | -----------------------------------------|
 | <img src="screenshots/2.jpg" width="250"> | <img src="screenshots/1.jpg" width="250">|
-
-## Contact me 📧
-#### Email : mrbouaggadmoez@gmail.com
-#### Website : https://bouaggadmoez.netlify.com/
